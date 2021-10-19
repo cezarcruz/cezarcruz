@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 I’m currently working on Java backend
+- 🔭 I’m currently working on backend
 - 🌱 I’m currently learning kotlin
 
 <div align="center">
