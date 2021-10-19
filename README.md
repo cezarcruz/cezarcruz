@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/cezarcruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cezarcruz&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarcruz&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarcruz&layout=compact&langs_count=7&theme=darcula&exclude_repo=cezarcruz.com.br,cezarcruz.github.io"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cezar-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
