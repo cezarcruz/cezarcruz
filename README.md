@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello 👋
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning kotlin
