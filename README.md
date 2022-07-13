@@ -1,7 +1,7 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning clojure
 
 <div align="center">
   <a href="https://github.com/cezarcruz">
