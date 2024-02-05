@@ -9,3 +9,5 @@
   <img align="center" alt="Cezar-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Cezar-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">  
 </div>
+
+Disclaimer: All repositories here has learning purposes, feel free to include your ideas or suggestions. Thank you.
